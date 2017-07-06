@@ -9,7 +9,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 ====
 
 
-####聚合&&周报订阅
+#### 聚合&&周报订阅
 |名称 |订阅地址 | 介绍 |
 | ----- | ----- | ------ |
 |Html5 Weekly|http://html5weekly.com/| Html 技术类|
@@ -27,14 +27,17 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 
-####专业博客
+#### 专业博客
 
 注:此处`活跃度`为博客更新频率，`原创度`指的是作者原创或者翻译的文章所占博文比例。请尊重原创，大量转载其他网站资讯的网站和聚合类网站不做推荐。
 
-######中文博客
+###### 中文博客
 |名称 |活跃度 | 原创度 | 维护者|其他|
 | ----- | ----- | ------ |----- |-----|
 |[W3Cplus](http://www.w3cplus.com/)|★★★★★|★★★★★|携程 @大漠 |国内最优秀的前端博客，原创居多|
+|[W3Cfuns](http://www.w3cfuns.com/)|★★★★★|★★★★☆|[#](http://www.w3cfuns.com/misc.php?mod=faq&action=faq&id=1) |专注于web前端开发行业的综合性门户网站|
+|[w3ctech](https://www.w3ctech.com/)|★★★★★|★★★★★|360 @裕波 |中国最大的前端技术社区|
+|[W3Cfuns](http://www.w3cfuns.com/)|★★★★★|★★★★☆|[#](http://www.w3cfuns.com/misc.php?mod=faq&action=faq&id=1) |专注于web前端开发行业的综合性门户网站|
 |[W3Cfuns](http://www.w3cfuns.com/)|★★★★★|★★★★☆|[#](http://www.w3cfuns.com/misc.php?mod=faq&action=faq&id=1) |专注于web前端开发行业的综合性门户网站|
 |[前端观察](http://www.qianduan.net/)|★★★★☆|★★★★☆|腾讯 ISUX @神飞|曾经最优秀，最近更新不频繁了|
 |[腾讯web前端 AlloyTeam 团队](http://www.alloyteam.com/)|★★★★|★★★★|[@腾讯AlloyTeam](http://t.qq.com/AlloyTeam)|来自于腾讯SNG(社交网络事业群)|
@@ -47,7 +50,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 
-######国外博客
+###### 国外博客
 |名称 |活跃度 | 原创度 | 维护者|其他|
 | ----- | ----- | ------ |----- |------|
 |[Smashing Magazine](http://www.smashingmagazine.com/)|★★★★★|★★★★★| # |业界权威，web 设计很赞|
@@ -63,21 +66,22 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[Krasimir Tsonev](http://krasimirtsonev.com/blog)|★★★★★|★★★★★| Krasimir Tsonev|html5,ccs3,javascript|
 |[NCZOnline](http://www.nczonline.net/)|★★★★★|★★★★★| Nicholas C. Zakas |html5,ccs3,javascript|
 
-#####活跃微博
+##### 活跃微博
 |ID |公司 | 简介 |
 |-----|------|------|
 |[@w3c中国](http://weibo.com/w3cchina)|#|万维网联盟中国办事处官方微博|
+|[@w3ctech](http://weibo.com/w3ctech)|#|w3ctech官方微博|
 |[@TheFrontEnd](http://weibo.com/javascriptdev)|#|JavaScript技术资讯、新闻、教程、深度文章。|
 |[@前端快爆](http://weibo.com/fekb)|阿里巴巴|有HTML5、CSS3、JS |
 |[@HTML5中国](http://e.weibo.com/html5cn)|#|中国www.html5cn.org官方微博|
 |[@developerWorks](http://weibo.com/developerworks)|#|#|
 
 
-####开发者博客
+#### 开发者博客
 
 微博微信流行后，明显感觉到写博客的人还是越来越少了，下面推荐的这些开发者属于在网上比较活跃的，或者博客积累了大量优质资源的。
 
-######国内开发者
+###### 国内开发者
 
 国内开发者一块欢迎大家 `Fork`提交推荐，最好能推荐一些在前端界较活跃的的开发者。
 
@@ -132,7 +136,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |安记|[cssha](http://www.cssha.com/)|[@hanan321](http://weibo.com/hanan321)|[hanan198501](https://github.com/hanan198501)|#|#|去哪网一牛|
 
 
-####一些社区
+#### 一些社区
 
 |名称 |地址 |介绍 |
 |-----|-----|------|
@@ -142,7 +146,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Code Wall|https://coderwall.com/|国外技术社区|
 
 
-#####企业官方博客
+##### 企业官方博客
 
 在开头我的 Feedly 订阅 opml 文件里比较全面。
 
@@ -163,7 +167,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 
-##书籍
+## 书籍
 
 |名称 | 作者 | 价格 | 出版社|简评 |
 | ----- | ----- | ------ |----- |------|
@@ -178,9 +182,9 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[JavaScript语言精粹](http://book.douban.com/subject/3590768/)| Douglas Crockford    |RMB 35.00| 电子工业出版社|绝对经典，相信看完后，对Javascript这门语言有了重新认识，原来这个语言是这么的美丽！|
 
 
-##[大漠](http://www.w3cplus.com)分享
+## [大漠](http://www.w3cplus.com)分享
 
-###性能优化优秀教程
+### 性能优化优秀教程
 
 - [5173首页前端性能优化实践](http://ued.5173.com/?p=1731)
 - [给网页设计师和前端开发者看的前端性能优化](http://www.uisdc.com/front-end-performance-for-web-designers-and-front-end-developers)
@@ -230,7 +234,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 - [Need for Speed – How to Improve your Website Performance](http://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
 
 
-##关于
+## 关于
 
 
 本 repo 会不断更新，感谢推荐和分享新资源的朋友。
